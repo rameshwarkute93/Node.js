@@ -8,3 +8,6 @@ math.add(2,3)
 let logic = require("./logic") // import logic.js file in index.js
 logic.table(2)
 logic.evenodd(2)
+
+let string = require("./string") // import string.js file in index.js
+string.strln("Rameshwar")
